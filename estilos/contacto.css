@@ -1,0 +1,19 @@
+/*parte del texto*/
+h2 {
+    margin-bottom: 20px;
+}
+
+/* color de los iconos */
+.fa-phone, .fa-envelope, .fa-map-marker-alt {
+    color: #000000;
+}
+
+/*el formulario*/
+form {
+    margin-top: 20px;
+}
+
+/*el mapa*/
+iframe {
+    margin-top: 20px;
+}

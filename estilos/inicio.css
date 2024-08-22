@@ -1,0 +1,54 @@
+/* El carruzel */
+.slide{
+    margin-top: 50px;
+    margin: 50px;
+}
+
+/* Parte del Body*/
+.titulo{
+    margin-top: 50px;
+}
+
+/* Las Ofertas */
+.ofertas-container {    
+    text-align: center;
+    padding: 20px;
+    background-color: #D7F6DA;
+    margin: 50px;
+    margin-top: 50px;
+    border-radius: 100px;
+}
+
+.ofertas-grid {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin-top: 20px;
+}
+
+.oferta-item {
+    background-color: #ffffff;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    width: 200px;
+    padding: 10px;
+    margin: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    position: relative;
+}
+
+.oferta-item img {
+    width: 100%;
+    height: auto;
+    border-radius: 10px 10px 0 0;
+}
+
+/*Una galeria*/
+.galery{
+    text-align: center;
+    padding: 20px;
+    background-color: #D7F6DA;
+    margin: 50px;
+    margin-top: 50px;
+    border-radius: 100px;
+}

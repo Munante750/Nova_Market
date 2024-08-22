@@ -1,0 +1,24 @@
+/* Menu de secciones */
+.menu-container {    
+    margin-top: 50px;
+}
+
+.products {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin-top: 20px;
+}
+
+.product-item{
+    margin: 3cm;
+}
+
+.no-border {
+    border: none;
+}
+
+.no-border .card-img-top {
+    border-radius: 0;
+}
+  
